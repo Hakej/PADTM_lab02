@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PADTM_lab02</string>
+    <string name="moj_tekst">Hallo Welt!</string>
+    <string name="top_left">Ich bin oben links</string>
+    <string name="top_right">Ich bin oben rechts</string>
+    <string name="how_are_you">Wie gehts?</string>
+    <string name="i_hope_good">Ich hoffe es geht dir gut!</string>
+    <string name="random_string">Ich hoffe es geht dir gut!</string>
+</resources>

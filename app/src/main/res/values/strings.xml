@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PADTM_lab02</string>
+    <string name="moj_tekst">Hello World!</string>
+    <string name="top_left">I am a top left corner</string>
+    <string name="top_right">I am a top right corner</string>
+    <string name="how_are_you">How are you?</string>
+    <string name="i_hope_good">I hope you\'re doing good!</string>
+    <string name="random_string">I am a random string!</string>
+</resources>
